@@ -8,6 +8,11 @@
     <img alt="Repository last commit" src="https://img.shields.io/github/last-commit/guilhermekuni/go-finances-web?color=%23BC4749" />
   </p>
   <h3>Front-end Web of GoFinances!</h3>
+  <p align="center">
+    <a href="#about-ℹ️">About</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#information_source-how-to-use">How To Use</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+    <a href="#memo-license">License</a>
+  </p>
 </div>
 
 <image src="src/screenshots/dashboard.png" width="100%" />
