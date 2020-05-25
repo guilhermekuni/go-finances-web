@@ -1,6 +1,9 @@
 <h1 align="center">🚀 Go Finances Web 💰</h1>
 
 <div align="center">
+    <p>
+       ![GitHub repo size](https://img.shields.io/github/repo-size/guilhermekuni/go-finances-web?color=%239067C6)
+    </p>
     <p>Front-end Web of GoFinances!</p>
 </div>
 
