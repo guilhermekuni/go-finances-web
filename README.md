@@ -1,13 +1,13 @@
 <h1 align="center">🚀 Go Finances Web 💰</h1>
 
 <div align="center">
-  <h3>Front-end Web of GoFinances!</h3>
   <p align="center">
     <img alt="Repository languages count" src="https://img.shields.io/github/languages/top/guilhermekuni/go-finances-web?color=%23BC4749">
     <img alt="Repository top language" src="https://img.shields.io/github/languages/count/guilhermekuni/go-finances-web?color=%23BC4749">
     <img alt="Repository size" src="https://img.shields.io/github/repo-size/guilhermekuni/go-finances-web?color=%23BC4749">
     <img alt="Repository last commit" src="https://img.shields.io/github/last-commit/guilhermekuni/go-finances-web?color=%23BC4749" />
   </p>
+  <h3>Front-end Web of GoFinances!</h3>
 </div>
 
 ## About ℹ️
