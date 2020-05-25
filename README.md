@@ -20,8 +20,8 @@
 
 ### Requirements
 
-1. Clone the back-end repository.
-2. Run back-end project (the steps are described here: [https://github.com/guilhermekuni/go-finances-api](https://github.com/guilhermekuni/go-finances-api)).
+1. Clone the back-end [repository](https://github.com/guilhermekuni/go-finances-api).
+2. Run back-end project (the steps are described [here](https://github.com/guilhermekuni/go-finances-api)(https://github.com/guilhermekuni/go-finances-api)).
 
 ### Run Tests
 
