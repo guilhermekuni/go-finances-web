@@ -10,6 +10,9 @@
   <h3>Front-end Web of GoFinances!</h3>
 </div>
 
+<image src="src/screenshots/dashboard.png" width="100%" />
+<image src="src/screenshots/import.png" width="100%" />
+
 ## About ℹ️
 
 This project is the resolution of the Challenge 07 from Rocketseat's GoStack Bootcamp. It's also the Front-end Web of a simple finances App, called GoFinances. Basically, you can import a .csv file and analyse your transactions.
@@ -24,12 +27,6 @@ This project is the resolution of the Challenge 07 from Rocketseat's GoStack Boo
 - **ReactJS** - A JavaScript library for building user interfaces.
 - **Typescript** - An open-source language which builds on JavaScript, one of the world’s most used tools, by adding static type definitions.
 - **Jest** - A JavaScript library for unit/integration testing implementation.
-
-
-## Screenshots 🖼
-
-<image src="src/screenshots/dashboard.png" width="100%" />
-<image src="src/screenshots/import.png" width="100%" />
 
 ## Getting Started 🚀
 
