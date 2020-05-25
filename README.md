@@ -19,6 +19,12 @@ This project is the resolution of the Challenge 07 from Rocketseat's GoStack Boo
 - **Typescript** - An open-source language which builds on JavaScript, one of the world’s most used tools, by adding static type definitions.
 - **Jest** - A JavaScript library for unit/integration testing implementation.
 
+
+## Screenshots 🖼
+
+<image src="src/screenshots/dashboard.png" width="100%" />
+<image src="src/screenshots/import.png" width="100%" />
+
 ## Getting Started 🚀
 
 ### Requirements
