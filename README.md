@@ -2,8 +2,11 @@
 
 <div align="center">
     <p>Front-end Web of GoFinances!</p>
-    <p>This project is the resolution of the Challenge 07 from Rocketseat's GoStack Bootcamp.</p>
 </div>
+
+## About ℹ️
+
+This project is the resolution of the Challenge 07 from Rocketseat's GoStack Bootcamp. It's also the Front-end Web of a simple finances App, called GoFinances. Basically, you can import a .csv file and analyse your transactions.
 
 ## Links 🔗
 
