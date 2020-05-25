@@ -7,8 +7,8 @@
 
 ## Links 🔗
 
-- Challenge 07: [https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-fundamentos-reactjs/README.md](https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-fundamentos-reactjs/README.md)
-- Backend: [https://github.com/guilhermekuni/go-finances-api](https://github.com/guilhermekuni/go-finances-api)
+- [Challenge 07](https://github.com/Rocketseat/bootcamp-gostack-desafios/blob/master/desafio-fundamentos-reactjs/README.md)
+- [Back-end](https://github.com/guilhermekuni/go-finances-api)
 
 ## Techs 💻
 
@@ -20,8 +20,8 @@
 
 ### Requirements
 
-1. Clone the Backend repository.
-2. Run Backend project (the steps are described here: [https://github.com/guilhermekuni/go-finances-api](https://github.com/guilhermekuni/go-finances-api)).
+1. Clone the back-end repository.
+2. Run back-end project (the steps are described here: [https://github.com/guilhermekuni/go-finances-api](https://github.com/guilhermekuni/go-finances-api)).
 
 ### Run Tests
 
